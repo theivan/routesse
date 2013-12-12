@@ -549,7 +549,7 @@ header.site-header nav ul li a:hover {
   max-height: 800px;
   position: absolute;
   z-index: 2;
-  background: rgba(0, 0, 0, 0.55);
+  background: rgba(0, 0, 0, 0.35);
 }
 .article .overlay-lighter {
   background: rgba(0, 0, 0, 0.1);
@@ -720,7 +720,7 @@ header.site-header nav ul li a:hover {
   margin-bottom: 16.5px;
 }
 .post h1 {
-  font-style: italic;
+  font-style: normal;
 }
 .post h1, .post h2, .post h3, .post h4, .post h5 {
   padding-top: 16.5px;
@@ -1111,3 +1111,12 @@ footer .social ul li:last-child {
     font-size: 12px;
   }
 }
+  .headline{
+    font-size: 100px;
+    font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 2px;
+  }
+

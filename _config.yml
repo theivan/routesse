@@ -2,7 +2,7 @@ title:            Routes
 tagline:          Your path.
 description:      
 #Comment out url when working locally to resolve base urls correctly
-url: http://routes.se
+#url: http://routes.se
 
 # Owner/author information
 owner:
