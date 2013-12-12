@@ -5,24 +5,4 @@
     </url>
 
     
-    <url>
-        <loc>http://routes.se/articles/test-post</loc>
-    </url>
-    
-    <url>
-        <loc>http://routes.se/articles/the-little-prince</loc>
-    </url>
-    
-    <url>
-        <loc>http://routes.se/articles/post-with-figure</loc>
-    </url>
-    
-    <url>
-        <loc>http://routes.se/articles/post-with-feature</loc>
-    </url>
-    
-    <url>
-        <loc>http://routes.se/articles/longform-post</loc>
-    </url>
-    
 </urlset>
