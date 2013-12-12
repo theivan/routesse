@@ -1,7 +1,7 @@
 ---
 layout: home
-title: "Recent Posts"
-tags: [Jekyll, theme, responsive, blog, template]
+title: Routes
+tags: [Routes, travel, explore]
 image:
   feature: typewriter.jpg
 ---
