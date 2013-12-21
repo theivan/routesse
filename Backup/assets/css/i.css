@@ -1110,12 +1110,11 @@ footer .social ul li:last-child {
   small {
     font-size: 12px;
   }
+
 }
   .headline{
-    font-size: 100px;
     font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
     text-transform: uppercase;
-    font-style: normal;
     font-weight: 700;
     letter-spacing: 2px;
   }
